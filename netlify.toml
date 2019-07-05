@@ -1,0 +1,14 @@
+[context.production.environment]
+	HUGO_VERSION = "0.55.6"
+
+[context.branch-deploy.environment]
+	HUGO_VERSION = "0.55.6"
+
+[context.deploy-preview.environment]
+	HUGO_VERSION = "0.55.6"
+
+[[redirects]]
+	from = "https://sjmd-course-barkslikeadogma.netlify.com/*"
+	to = "https://barkslikeadogma.course.sjmd.space/:splat"
+	status = 301
+	force = true #COMMENT: ensure that we always redirect
