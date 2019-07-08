@@ -11,4 +11,3 @@ weight: 1
 1. Why does dogma flourish?
 2. What are the foundational beliefs of SJD?
 3. How does SJD provide positive feedback?
-4. What maintenance is required for SJD to thrive?
