@@ -14,6 +14,8 @@ If someone says, "**Z** is oppressive," how might you reply?
 
 "Yep! **Z** is totally oppressive because..." 👈 law-abiding
 
+"Yeah! **Z** is oppressive in all of those ways **and** it's oppressive because..." 👈 law-abiding
+
 "Actually, no, **Z** isn't oppressive, because..." 👈 outlawed
 
 <center>_Weigh in on this cornerstone in the community_</center>
